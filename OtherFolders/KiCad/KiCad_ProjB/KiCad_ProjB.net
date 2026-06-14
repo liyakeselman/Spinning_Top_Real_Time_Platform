@@ -1,0 +1,4107 @@
+(export 
+  (version "E") 
+  (design 
+    (source "/Users/liyakeselman/Library/CloudStorage/OneDrive-Technion/Project_B/kicad2026_prep/kicad2026_prep/kicad2026_prep.kicad_sch") 
+    (date "2026-06-06T01:11:28+0300") 
+    (tool "Eeschema 9.0.4") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "kicad2026_prep.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "47uF") 
+      (footprint "Capacitor_SMD:CP_Elec_3x5.3") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:CP_Elec_3x5.3") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Polarized") 
+        (description "Polarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "CP_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d8ac0256-7862-4844-ae8b-a6c9a0b21892")) 
+    (comp 
+      (ref "C2") 
+      (value "47uF") 
+      (footprint "Capacitor_SMD:CP_Elec_3x5.3") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:CP_Elec_3x5.3") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Polarized") 
+        (description "Polarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "CP_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1f7f574d-8b15-4960-9a30-4d48417c2c2a")) 
+    (comp 
+      (ref "C3") 
+      (value "47uF") 
+      (footprint "Capacitor_SMD:CP_Elec_3x5.3") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:CP_Elec_3x5.3") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Polarized") 
+        (description "Polarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "CP_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9c80ded0-2060-473d-91a5-f885f884f6a3")) 
+    (comp 
+      (ref "C4") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "494e2ad4-211c-475f-8e8b-05b95789bf9f")) 
+    (comp 
+      (ref "C5") 
+      (value "47uF") 
+      (footprint "Capacitor_SMD:CP_Elec_3x5.3") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:CP_Elec_3x5.3") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Polarized") 
+        (description "Polarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "CP_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c3db4f56-5e2b-481e-935f-cd36663a6786")) 
+    (comp 
+      (ref "C6") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ed4ca573-9b5a-4eef-ba12-2826fb61c31b")) 
+    (comp 
+      (ref "C7") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f76a5afb-0ca7-45da-b8a9-6ebddc0eb56c")) 
+    (comp 
+      (ref "C8") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "abc25461-d9a7-4fcd-862b-9074532b6668")) 
+    (comp 
+      (ref "C9") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d0b7ddd2-03ee-4eda-8c49-3f1300a18b13")) 
+    (comp 
+      (ref "C10") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bc67d109-f9eb-4b3d-8e66-3a6a145187d8")) 
+    (comp 
+      (ref "C11") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3874aee2-e34a-459e-a02d-c97ebb9737cb")) 
+    (comp 
+      (ref "C12") 
+      (value "10uF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Capacitor_SMD:C_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "C_Small") 
+        (description "Unpolarized capacitor, small symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "capacitor cap")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "C_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f344a19c-bb3f-406c-b9c5-ed16c880f752")) 
+    (comp 
+      (ref "D1") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "73b60544-655a-42bc-8e87-ce3c2752d4cb")) 
+    (comp 
+      (ref "D2") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "df1e88ec-4518-403b-a375-0c37337a75cd")) 
+    (comp 
+      (ref "D3") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2bae58b8-114d-444c-b3ea-18f0fba5cd76")) 
+    (comp 
+      (ref "D4") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "79db3cda-7eda-4410-b9fe-3d6fc3e1996f")) 
+    (comp 
+      (ref "D5") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0ed4314e-abae-4d69-ab73-723e43140fa3")) 
+    (comp 
+      (ref "D6") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "cab3ae19-cfdc-4e7e-a75e-37e3512fc886")) 
+    (comp 
+      (ref "D7") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a6533550-6c8d-4782-a63c-cc0b5d7b196f")) 
+    (comp 
+      (ref "D8") 
+      (value "CD4148W") 
+      (footprint "Diode_SMD:D_0805_2012Metric") 
+      (datasheet "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CD4148W") 
+        (description "75V 0.15A Switching Diode, 0805")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "D*0805*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2a6ac9f6-b75e-4bcf-83f9-9bdfec30d741")) 
+    (comp 
+      (ref "JP1") 
+      (value "Jumper_2_Bridged") 
+      (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "Jumper_2_Bridged") 
+        (description "Jumper, 2-pole, closed/bridged")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "Jumper SPST")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Jumper* TestPoint*2Pads* TestPoint*Bridge*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3b80ccd7-4587-4827-9bff-b0547dabefa6")) 
+    (comp 
+      (ref "R1") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c48e18d7-f24c-4a18-bd09-c2e64fb8c86a")) 
+    (comp 
+      (ref "R2") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "45e07c1f-026c-4c5f-8dff-d26f86e0c4d5")) 
+    (comp 
+      (ref "R3") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e86707fc-7afb-4480-9b20-421a06338407")) 
+    (comp 
+      (ref "R4") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7a5d72e9-7e20-48cc-9a4e-8e0d62ee3c1c")) 
+    (comp 
+      (ref "R5") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "feceb2bf-5d72-4bee-b2e0-bb13bd36ed87")) 
+    (comp 
+      (ref "R6") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2e5b3a3d-1cef-4d67-a893-1f9d736eb538")) 
+    (comp 
+      (ref "R7") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8a68b01f-6b6e-446a-baef-36eacf911ceb")) 
+    (comp 
+      (ref "R8") 
+      (value "330") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "509b91f0-bb14-43ac-b7d2-38121fdf3a9b")) 
+    (comp 
+      (ref "R9") 
+      (value "3.3K") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fa778ea5-3354-481f-b71a-1ec1f5b12a04")) 
+    (comp 
+      (ref "R10") 
+      (value "3.3K") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "deaa4456-a2d2-4b07-b022-17ad483663ec")) 
+    (comp 
+      (ref "R11") 
+      (value "3.3K") 
+      (footprint "Resistor_SMD:R_0805_2012Metric") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Resistor_SMD:R_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2cedfa02-0be2-490d-8079-15b5062097a0")) 
+    (comp 
+      (ref "R12") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a7894abd-5f0d-4675-804e-5957c61a8004")) 
+    (comp 
+      (ref "R13") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e13cfb9e-9276-4329-b1e7-eb79e91ddbe1")) 
+    (comp 
+      (ref "R14") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "29d158a7-1691-4df0-9d0c-35c78cef42ea")) 
+    (comp 
+      (ref "R15") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "437299aa-e493-464c-b3e2-911a467a4c0b")) 
+    (comp 
+      (ref "R16") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "92edde02-6d0b-4b79-8ee6-9f34a833a588")) 
+    (comp 
+      (ref "R17") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f4b570ac-f87d-4bed-b40e-8d7fb71ea46b")) 
+    (comp 
+      (ref "R18") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "20060d8c-a6d6-49d7-afc4-78ae03d3feec")) 
+    (comp 
+      (ref "R19") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6640f92d-ba42-416a-82d4-3a2b4f8d9495")) 
+    (comp 
+      (ref "R20") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6f24210e-fc0a-4dab-b000-c64932bf5f59")) 
+    (comp 
+      (ref "R21") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "903b6651-f3d1-46c7-b638-cf4bd5ad87a5")) 
+    (comp 
+      (ref "R22") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "cc821846-1b8e-48c3-b054-93a6088e960d")) 
+    (comp 
+      (ref "R23") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6c7d0c5d-775f-4a4a-805e-a0d964d12997")) 
+    (comp 
+      (ref "R24") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e95824e8-0200-4d87-8246-f7c0e90eee21")) 
+    (comp 
+      (ref "R25") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0204a419-7cc7-4cb2-8b24-6d3fa0f70a13")) 
+    (comp 
+      (ref "R26") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5f81b3ba-674d-4158-8895-4abe3f3af0c4")) 
+    (comp 
+      (ref "R27") 
+      (value "100") 
+      (datasheet "~") 
+      (description "Resistor") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (libsource 
+        (lib "Library") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "R_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e19debc5-eee4-48d9-bb7f-5936c7fb3be3")) 
+    (comp 
+      (ref "TP1") 
+      (value "TestPoint_3.3V") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "70a337a1-a84a-4b85-a6f7-92b01dafc646")) 
+    (comp 
+      (ref "TP2") 
+      (value "TestPoint_5V") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "724d0e78-2846-4bf2-bd5b-a6fa33d9a388")) 
+    (comp 
+      (ref "TP3") 
+      (value "TestPoint_VCoil") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "cd3d1c07-1962-4a55-b4bf-693ae12ad009")) 
+    (comp 
+      (ref "TP4") 
+      (value "TestPoint_GND") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f3bf7ba1-f3e8-41b8-8d86-8cb95719d69e")) 
+    (comp 
+      (ref "TP5") 
+      (value "TestPoint_Battery_POS") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6d35f623-18e0-4015-a073-690a7511d639")) 
+    (comp 
+      (ref "TP6") 
+      (value "TestPoint_Battery_NEG") 
+      (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+      (datasheet "~") 
+      (fields 
+        (field 
+          (name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TestPoint_Small") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Pin* Test*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9b0adaf2-262f-4fd4-9ccf-83ea2c0b101b")) 
+    (comp 
+      (ref "U1") 
+      (value "~") 
+      (footprint "projectA_footprints:MOTOR_DRIVER") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:MOTOR_DRIVER") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "MOTOR_DRIVER") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ad1ec2ef-7b9d-4f98-a01a-31f18d0fcb99")) 
+    (comp 
+      (ref "U2") 
+      (value "~") 
+      (footprint "projectA_footprints:MOTOR_DRIVER") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:MOTOR_DRIVER") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "MOTOR_DRIVER") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ad23a1a0-aaed-4f6d-bbb4-39b9f0725240")) 
+    (comp 
+      (ref "U3") 
+      (value "~") 
+      (footprint "projectA_footprints:VL53L0XV2") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:VL53L0XV2") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "VL53L0XV2") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "833c1bd2-2e1b-465b-9257-6e25770041f0")) 
+    (comp 
+      (ref "U4") 
+      (value "~") 
+      (footprint "projectA_footprints:VL53L0XV2") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:VL53L0XV2") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "VL53L0XV2") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3857a603-ec81-490a-bc9a-bd0a47501ddb")) 
+    (comp 
+      (ref "U5") 
+      (value "~") 
+      (footprint "projectA_footprints:VL53L0XV2") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:VL53L0XV2") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "VL53L0XV2") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "cc20a751-404b-4e64-a172-a36ae236d226")) 
+    (comp 
+      (ref "U6") 
+      (value "~") 
+      (footprint "projectA_footprints:BUCK_BOOST") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:BUCK_BOOST") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "BUCK_BOOST") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "05be8ab8-6261-4efe-a88a-626b4bd16419")) 
+    (comp 
+      (ref "U7") 
+      (value "~") 
+      (footprint "projectA_footprints:BUCK_BOOST") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:BUCK_BOOST") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "BUCK_BOOST") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "47b81d17-1c2a-48e5-aa3d-6e5bbf84c5b3")) 
+    (comp 
+      (ref "U10") 
+      (value "~") 
+      (footprint "projectA_footprints:TF_LUNA") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:TF_LUNA") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "TF_LUNA") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "66c97951-fb97-43a9-9228-8b041bd1a35e")) 
+    (comp 
+      (ref "U11") 
+      (value "~") 
+      (footprint "projectA_footprints:MPU6050") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:MPU6050") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "MPU6050") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7109b006-1b3c-4166-a406-da1ce04a69b1")) 
+    (comp 
+      (ref "U12") 
+      (value "~") 
+      (footprint "projectA_footprints:ESP32") 
+      (fields 
+        (field 
+          (name "Footprint") "projectA_footprints:ESP32") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "ESP32") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2adf4e53-c953-40f1-a771-57867d24a7ed")) 
+    (comp 
+      (ref "U13") 
+      (value "~") 
+      (footprint "CHARGER_3S") 
+      (fields 
+        (field 
+          (name "Footprint") "CHARGER_3S") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "CHARGER_3S") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "53fcd545-419c-4829-88b0-ca723a15a0df")) 
+    (comp 
+      (ref "U14") 
+      (value "~") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "BATTERY_HOLDER") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "75f0e38a-8c05-4cb3-98ae-4113ad528196")) 
+    (comp 
+      (ref "U15") 
+      (value "~") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "BATTERY_HOLDER") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f1bb4e0e-5904-46cd-9655-ae4b0c0e73f9")) 
+    (comp 
+      (ref "U16") 
+      (value "~") 
+      (fields 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Library") 
+        (part "BATTERY_HOLDER") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "kicad2026_prep.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "45d95334-dc3f-40e4-8600-d8c571ac7d8a"))) 
+  (libparts 
+    (libpart 
+      (lib "Library") 
+      (part "BATTERY_HOLDER") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "N") 
+          (name "NEG") 
+          (type "power_in")) 
+        (pin 
+          (num "P") 
+          (name "POS") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Library") 
+      (part "BUCK_BOOST") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "IN_P") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "EN") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "IN_N") 
+          (type "power_in")) 
+        (pin 
+          (num "4") 
+          (name "OUT_P") 
+          (type "power_out")) 
+        (pin 
+          (num "5") 
+          (name "OUT_N") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Library") 
+      (part "CD4148W") 
+      (description "75V 0.15A Switching Diode, 0805") 
+      (docs "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+      (footprints 
+        (fp "D*0805*")) 
+      (fields 
+        (field 
+          (name "Reference") "D") 
+        (field 
+          (name "Value") "CD4148W") 
+        (field 
+          (name "Footprint") "Diode_SMD:D_0805_2012Metric") 
+        (field 
+          (name "Datasheet") "https://www.dccomponents.com/upload/product/original/623524775088.pdf") 
+        (field 
+          (name "Description") "75V 0.15A Switching Diode, 0805") 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "K") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "A") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "CHARGER_3S") 
+      (fields 
+        (field 
+          (name "Reference") "U13") 
+        (field 
+          (name "Value") "~") 
+        (field 
+          (name "Footprint") "CHARGER_3S") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "IN+") 
+          (type "free")) 
+        (pin 
+          (num "2") 
+          (name "IN-") 
+          (type "free")) 
+        (pin 
+          (num "3") 
+          (name "BAT+(V3)") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4") 
+          (name "BAT-(Vss)") 
+          (type "bidirectional")) 
+        (pin 
+          (num "5") 
+          (name "OUT-") 
+          (type "power_out")) 
+        (pin 
+          (num "6") 
+          (name "OUT+") 
+          (type "power_out")) 
+        (pin 
+          (num "7") 
+          (name "R-") 
+          (type "no_connect")) 
+        (pin 
+          (num "8") 
+          (name "C-") 
+          (type "no_connect")) 
+        (pin 
+          (num "9") 
+          (name "G-") 
+          (type "no_connect")) 
+        (pin 
+          (num "10") 
+          (name "V2") 
+          (type "passive")) 
+        (pin 
+          (num "11") 
+          (name "V1") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "C_Polarized") 
+      (description "Polarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "CP_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C_Polarized") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Polarized capacitor")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "C_Small") 
+      (description "Unpolarized capacitor, small symbol") 
+      (docs "~") 
+      (footprints 
+        (fp "C_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C_Small") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Unpolarized capacitor, small symbol")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "ESP32") 
+      (fields 
+        (field 
+          (name "Reference") "U12") 
+        (field 
+          (name "Value") "~") 
+        (field 
+          (name "Footprint") "projectA_footprints:ESP32") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "3V3") 
+          (type "power_out")) 
+        (pin 
+          (num "2") 
+          (name "RESTART__EN") 
+          (type "free")) 
+        (pin 
+          (num "3") 
+          (name "ADC1_0_RTC_GPIO0__GPIO36") 
+          (type "input")) 
+        (pin 
+          (num "4") 
+          (name "ADC1_3_RTC_GPIO3__GPIO39") 
+          (type "no_connect")) 
+        (pin 
+          (num "5") 
+          (name "ADC1_6_RTC_GPIO4__GPIO34") 
+          (type "no_connect")) 
+        (pin 
+          (num "6") 
+          (name "ADC1_7_RTC_GPIO5__GPIO35") 
+          (type "no_connect")) 
+        (pin 
+          (num "7") 
+          (name "TOUCH_9__ADC1_4__RTC_GPIO9_GPIO32") 
+          (type "bidirectional")) 
+        (pin 
+          (num "8") 
+          (name "TOUCH_8__ADC1_5__RTC_GPIO8_GPIO33") 
+          (type "bidirectional")) 
+        (pin 
+          (num "9") 
+          (name "DAC_1__ADC2_8__RTC_GPIO6__GPIO25") 
+          (type "bidirectional")) 
+        (pin 
+          (num "10") 
+          (name "DAC_2__ADC2_9__RTC_GPIO7__GPIO26") 
+          (type "bidirectional")) 
+        (pin 
+          (num "11") 
+          (name "TOUCH_7__ADC2_7__RTC_GPIO17__GPIO27") 
+          (type "bidirectional")) 
+        (pin 
+          (num "12") 
+          (name "SC_CLK__HSPI_CLK__TOUCH_6__ADC2_6__RTC_GPIO16__GPIO14") 
+          (type "bidirectional")) 
+        (pin 
+          (num "13") 
+          (name "SD_DAT2__HSPI_MISO__TOUCH_5__ADC2_5__RTC_GPIO15__GPIO12") 
+          (type "bidirectional")) 
+        (pin 
+          (num "14") 
+          (name "GND1") 
+          (type "power_in")) 
+        (pin 
+          (num "15") 
+          (name "SD_DAT3__HSPI_MOSI__TOUCH_4__ADC2_4__RTC_GPIO14__GPIO13") 
+          (type "bidirectional")) 
+        (pin 
+          (num "16") 
+          (name "SHD_SD2__GPIO9") 
+          (type "no_connect")) 
+        (pin 
+          (num "17") 
+          (name "SWP_SD3__GPIO10") 
+          (type "no_connect")) 
+        (pin 
+          (num "18") 
+          (name "CSC_CMD__GPIO11") 
+          (type "no_connect")) 
+        (pin 
+          (num "19") 
+          (name "5V") 
+          (type "power_in")) 
+        (pin 
+          (num "20") 
+          (name "GPIO6__SCK_CLK") 
+          (type "no_connect")) 
+        (pin 
+          (num "21") 
+          (name "GPIO7__SDO_SD0") 
+          (type "no_connect")) 
+        (pin 
+          (num "22") 
+          (name "GPIO8__SDI_SD1") 
+          (type "no_connect")) 
+        (pin 
+          (num "23") 
+          (name "GPIO15__RTC_GPIO13__ADC2_3__TOUCH3__SD_CMD__HSPI_CS") 
+          (type "bidirectional")) 
+        (pin 
+          (num "24") 
+          (name "GPIO2__RTC_GPIO12__ADC2_2__TOUCH_2__SD_DAT0__LED") 
+          (type "bidirectional")) 
+        (pin 
+          (num "25") 
+          (name "GPIO0__RTC_GPIO11__ADC2_1__TOUCH_1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "26") 
+          (name "GPIO4__RTC_GPIO10__ADC2_0__TOUCH0__SD_DAT1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "27") 
+          (name "GPIO16__RX2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "28") 
+          (name "GPIO17__TX2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "29") 
+          (name "GPIO5__VSPI_CS") 
+          (type "bidirectional")) 
+        (pin 
+          (num "30") 
+          (name "GPIO18__VSPI_CLK") 
+          (type "bidirectional")) 
+        (pin 
+          (num "31") 
+          (name "GPIO19__VSPI_MISO") 
+          (type "bidirectional")) 
+        (pin 
+          (num "32") 
+          (name "GND2") 
+          (type "power_in")) 
+        (pin 
+          (num "33") 
+          (name "GPIO21__I2C_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "34") 
+          (name "GPIO3__RX0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "35") 
+          (name "GPIO1__TX0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "36") 
+          (name "GPIO22__I2C_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "37") 
+          (name "GPIO23__VSPI_MOSI") 
+          (type "bidirectional")) 
+        (pin 
+          (num "38") 
+          (name "GND3") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Library") 
+      (part "Jumper_2_Bridged") 
+      (description "Jumper, 2-pole, closed/bridged") 
+      (docs "~") 
+      (footprints 
+        (fp "Jumper*") 
+        (fp "TestPoint*2Pads*") 
+        (fp "TestPoint*Bridge*")) 
+      (fields 
+        (field 
+          (name "Reference") "JP") 
+        (field 
+          (name "Value") "Jumper_2_Bridged") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Jumper, 2-pole, closed/bridged")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "B") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "MOTOR_DRIVER") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A_IB") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "A_IA") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "VCC") 
+          (type "power_in")) 
+        (pin 
+          (num "4") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "5") 
+          (name "B_IB") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "B_IA") 
+          (type "input")))) 
+    (libpart 
+      (lib "Library") 
+      (part "MPU6050") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "VCC") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "SCL") 
+          (type "output")) 
+        (pin 
+          (num "4") 
+          (name "SDA") 
+          (type "output")) 
+        (pin 
+          (num "5") 
+          (name "XDA") 
+          (type "no_connect")) 
+        (pin 
+          (num "6") 
+          (name "XCL") 
+          (type "no_connect")) 
+        (pin 
+          (num "7") 
+          (name "AD0") 
+          (type "input")) 
+        (pin 
+          (num "8") 
+          (name "INT") 
+          (type "input")))) 
+    (libpart 
+      (lib "Library") 
+      (part "R") 
+      (description "Resistor") 
+      (docs "~") 
+      (footprints 
+        (fp "R_*")) 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Value") "R") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Resistor")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "TF_LUNA") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "5V") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "RXD_SDA") 
+          (type "output")) 
+        (pin 
+          (num "3") 
+          (name "TXD_SCL") 
+          (type "output")) 
+        (pin 
+          (num "4") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "5") 
+          (name "CONFIGURATION_INPUT") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "MULTIPLEXING_OUTPUT") 
+          (type "no_connect")))) 
+    (libpart 
+      (lib "Library") 
+      (part "TestPoint_Small") 
+      (description "test point") 
+      (docs "~") 
+      (footprints 
+        (fp "Pin*") 
+        (fp "Test*")) 
+      (fields 
+        (field 
+          (name "Reference") "TP") 
+        (field 
+          (name "Value") "TestPoint_Small") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "test point")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Library") 
+      (part "VL53L0XV2") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value")) 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "VIN") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4") 
+          (name "SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "5") 
+          (name "GPIO1") 
+          (type "no_connect")) 
+        (pin 
+          (num "6") 
+          (name "XSHUT") 
+          (type "input"))))) 
+  (libraries 
+    (library 
+      (logical "Library") 
+      (uri "/Users/liyakeselman/Library/CloudStorage/OneDrive-Technion/Project_B/kicad2026_prep/kicad2026_prep/Library.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "+3.3V") 
+      (class "POWER") 
+      (node 
+        (ref "C3") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C7") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C8") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R11") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R7") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U10") 
+        (pin "5") 
+        (pinfunction "CONFIGURATION_INPUT") 
+        (pintype "input")) 
+      (node 
+        (ref "U11") 
+        (pin "1") 
+        (pinfunction "VCC") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U12") 
+        (pin "1") 
+        (pinfunction "3V3") 
+        (pintype "power_out")) 
+      (node 
+        (ref "U3") 
+        (pin "1") 
+        (pinfunction "VIN") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U4") 
+        (pin "1") 
+        (pinfunction "VIN") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U5") 
+        (pin "1") 
+        (pinfunction "VIN") 
+        (pintype "power_in"))) 
+    (net 
+      (code "2") 
+      (name "+5V") 
+      (class "POWER") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C12") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U10") 
+        (pin "1") 
+        (pinfunction "5V") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U12") 
+        (pin "19") 
+        (pinfunction "5V") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U6") 
+        (pin "4") 
+        (pinfunction "OUT_P") 
+        (pintype "power_out"))) 
+    (net 
+      (code "3") 
+      (name "+12V") 
+      (class "Default") 
+      (node 
+        (ref "C10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C11") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3") 
+        (pinfunction "VCC") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "3") 
+        (pinfunction "VCC") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U7") 
+        (pin "4") 
+        (pinfunction "OUT_P") 
+        (pintype "power_out"))) 
+    (net 
+      (code "4") 
+      (name "/B1_NEG_V2_B2_POS") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "10") 
+        (pinfunction "V2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U15") 
+        (pin "P") 
+        (pinfunction "POS") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U16") 
+        (pin "N") 
+        (pinfunction "NEG") 
+        (pintype "power_in"))) 
+    (net 
+      (code "5") 
+      (name "/B2_NEG_V1_B3_POS") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "11") 
+        (pinfunction "V1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U14") 
+        (pin "P") 
+        (pinfunction "POS") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U15") 
+        (pin "N") 
+        (pinfunction "NEG") 
+        (pintype "power_in"))) 
+    (net 
+      (code "7") 
+      (name "/BAT+_B1_POS") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "3") 
+        (pinfunction "BAT+(V3)") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U16") 
+        (pin "P") 
+        (pinfunction "POS") 
+        (pintype "power_in"))) 
+    (net 
+      (code "8") 
+      (name "/BB_EN") 
+      (class "SIGNAL") 
+      (node 
+        (ref "JP1") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "U7") 
+        (pin "2") 
+        (pinfunction "EN") 
+        (pintype "input"))) 
+    (net 
+      (code "9") 
+      (name "/CHRG_BAT_POS") 
+      (class "POWER") 
+      (node 
+        (ref "TP5") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "10") 
+      (name "/CHRG_BB_IN_P") 
+      (class "POWER") 
+      (node 
+        (ref "C5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "JP1") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "U13") 
+        (pin "6") 
+        (pinfunction "OUT+") 
+        (pintype "power_out")) 
+      (node 
+        (ref "U6") 
+        (pin "1") 
+        (pinfunction "IN_P") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U6") 
+        (pin "2") 
+        (pinfunction "EN") 
+        (pintype "input")) 
+      (node 
+        (ref "U7") 
+        (pin "1") 
+        (pinfunction "IN_P") 
+        (pintype "power_in"))) 
+    (net 
+      (code "11") 
+      (name "/ESP_LED1") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D1") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "7") 
+        (pinfunction "TOUCH_9__ADC1_4__RTC_GPIO9_GPIO32") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "12") 
+      (name "/ESP_LED2") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D2") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "8") 
+        (pinfunction "TOUCH_8__ADC1_5__RTC_GPIO8_GPIO33") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "13") 
+      (name "/ESP_LED3") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D3") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "9") 
+        (pinfunction "DAC_1__ADC2_8__RTC_GPIO6__GPIO25") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "14") 
+      (name "/ESP_LED4") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D4") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "10") 
+        (pinfunction "DAC_2__ADC2_9__RTC_GPIO7__GPIO26") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "15") 
+      (name "/ESP_LED5") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D5") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "11") 
+        (pinfunction "TOUCH_7__ADC2_7__RTC_GPIO17__GPIO27") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "16") 
+      (name "/ESP_LED6") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D6") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "12") 
+        (pinfunction "SC_CLK__HSPI_CLK__TOUCH_6__ADC2_6__RTC_GPIO16__GPIO14") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "17") 
+      (name "/ESP_LED7") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D7") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "13") 
+        (pinfunction "SD_DAT2__HSPI_MISO__TOUCH_5__ADC2_5__RTC_GPIO15__GPIO12") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "18") 
+      (name "/ESP_LUNA_LED8_TXD") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D8") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "R22") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U10") 
+        (pin "2") 
+        (pinfunction "RXD_SDA") 
+        (pintype "output"))) 
+    (net 
+      (code "19") 
+      (name "/ESP_MD_A_AIA") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R26") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "2") 
+        (pinfunction "A_IA") 
+        (pintype "input"))) 
+    (net 
+      (code "20") 
+      (name "/ESP_MD_A_AIB") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R16") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "1") 
+        (pinfunction "A_IB") 
+        (pintype "input"))) 
+    (net 
+      (code "21") 
+      (name "/ESP_MD_A_BIA") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R19") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "6") 
+        (pinfunction "B_IA") 
+        (pintype "input"))) 
+    (net 
+      (code "22") 
+      (name "/ESP_MD_A_BIB") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R17") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "5") 
+        (pinfunction "B_IB") 
+        (pintype "input"))) 
+    (net 
+      (code "23") 
+      (name "/ESP_MD_B_AIA") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R25") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "2") 
+        (pinfunction "A_IA") 
+        (pintype "input"))) 
+    (net 
+      (code "24") 
+      (name "/ESP_MD_B_AIB") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R24") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "1") 
+        (pinfunction "A_IB") 
+        (pintype "input"))) 
+    (net 
+      (code "25") 
+      (name "/ESP_MD_B_BIA") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R21") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "6") 
+        (pinfunction "B_IA") 
+        (pintype "input"))) 
+    (net 
+      (code "26") 
+      (name "/ESP_MD_B_BIB") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R20") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "5") 
+        (pinfunction "B_IB") 
+        (pintype "input"))) 
+    (net 
+      (code "27") 
+      (name "/ESP_MPU_VL_SCL") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R11") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R15") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U11") 
+        (pin "3") 
+        (pinfunction "SCL") 
+        (pintype "output")) 
+      (node 
+        (ref "U3") 
+        (pin "3") 
+        (pinfunction "SCL") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U4") 
+        (pin "3") 
+        (pinfunction "SCL") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U5") 
+        (pin "3") 
+        (pinfunction "SCL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "28") 
+      (name "/ESP_MPU_VL_SDA") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R18") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U11") 
+        (pin "4") 
+        (pinfunction "SDA") 
+        (pintype "output")) 
+      (node 
+        (ref "U3") 
+        (pin "4") 
+        (pinfunction "SDA") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U4") 
+        (pin "4") 
+        (pinfunction "SDA") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U5") 
+        (pin "4") 
+        (pinfunction "SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "29") 
+      (name "/ESP_VL_A_XSHUT") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R13") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "6") 
+        (pinfunction "XSHUT") 
+        (pintype "input"))) 
+    (net 
+      (code "30") 
+      (name "/ESP_VL_B_XSHUT") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R14") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U4") 
+        (pin "6") 
+        (pinfunction "XSHUT") 
+        (pintype "input"))) 
+    (net 
+      (code "31") 
+      (name "/ESP_VL_C_XSHUT") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R27") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U5") 
+        (pin "6") 
+        (pinfunction "XSHUT") 
+        (pintype "input"))) 
+    (net 
+      (code "32") 
+      (name "/LUNA_ESP_RXD") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R23") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U10") 
+        (pin "3") 
+        (pinfunction "TXD_SCL") 
+        (pintype "output"))) 
+    (net 
+      (code "33") 
+      (name "/MPU_ESP_INT") 
+      (class "SIGNAL") 
+      (node 
+        (ref "R12") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U11") 
+        (pin "8") 
+        (pinfunction "INT") 
+        (pintype "input"))) 
+    (net 
+      (code "34") 
+      (name "/R1_LED1") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D1") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "35") 
+      (name "/R2_LED2") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D2") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "36") 
+      (name "/R3_LED3") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D3") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "37") 
+      (name "/R4_LED4") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D4") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "38") 
+      (name "/R5_LED5") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D5") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R5") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "39") 
+      (name "/R6_LED6") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D6") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R6") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "40") 
+      (name "/R7_LED7") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D7") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R7") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "41") 
+      (name "/R8_LED8") 
+      (class "SIGNAL") 
+      (node 
+        (ref "D8") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "42") 
+      (name "GND") 
+      (class "POWER") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C11") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C12") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C3") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C4") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C6") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C7") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C8") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP6") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U10") 
+        (pin "4") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U11") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U11") 
+        (pin "7") 
+        (pinfunction "AD0") 
+        (pintype "input")) 
+      (node 
+        (ref "U12") 
+        (pin "14") 
+        (pinfunction "GND1") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U12") 
+        (pin "32") 
+        (pinfunction "GND2") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U12") 
+        (pin "38") 
+        (pinfunction "GND3") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U13") 
+        (pin "4") 
+        (pinfunction "BAT-(Vss)") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U13") 
+        (pin "5") 
+        (pinfunction "OUT-") 
+        (pintype "power_out")) 
+      (node 
+        (ref "U14") 
+        (pin "N") 
+        (pinfunction "NEG") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "4") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U4") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U5") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U6") 
+        (pin "3") 
+        (pinfunction "IN_N") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U6") 
+        (pin "5") 
+        (pinfunction "OUT_N") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U7") 
+        (pin "3") 
+        (pinfunction "IN_N") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U7") 
+        (pin "5") 
+        (pinfunction "OUT_N") 
+        (pintype "power_in"))) 
+    (net 
+      (code "43") 
+      (name "Net-(U12-ADC1_0_RTC_GPIO0__GPIO36)") 
+      (class "Default") 
+      (node 
+        (ref "R12") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "3") 
+        (pinfunction "ADC1_0_RTC_GPIO0__GPIO36") 
+        (pintype "input"))) 
+    (net 
+      (code "44") 
+      (name "Net-(U12-GPIO0__RTC_GPIO11__ADC2_1__TOUCH_1)") 
+      (class "Default") 
+      (node 
+        (ref "R25") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "25") 
+        (pinfunction "GPIO0__RTC_GPIO11__ADC2_1__TOUCH_1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "45") 
+      (name "Net-(U12-GPIO1__TX0)") 
+      (class "Default") 
+      (node 
+        (ref "R16") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "35") 
+        (pinfunction "GPIO1__TX0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "46") 
+      (name "Net-(U12-GPIO2__RTC_GPIO12__ADC2_2__TOUCH_2__SD_DAT0__LED)") 
+      (class "Default") 
+      (node 
+        (ref "R26") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "24") 
+        (pinfunction "GPIO2__RTC_GPIO12__ADC2_2__TOUCH_2__SD_DAT0__LED") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "47") 
+      (name "Net-(U12-GPIO3__RX0)") 
+      (class "Default") 
+      (node 
+        (ref "R17") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "34") 
+        (pinfunction "GPIO3__RX0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "48") 
+      (name "Net-(U12-GPIO4__RTC_GPIO10__ADC2_0__TOUCH0__SD_DAT1)") 
+      (class "Default") 
+      (node 
+        (ref "R24") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "26") 
+        (pinfunction "GPIO4__RTC_GPIO10__ADC2_0__TOUCH0__SD_DAT1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "49") 
+      (name "Net-(U12-GPIO5__VSPI_CS)") 
+      (class "Default") 
+      (node 
+        (ref "R21") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "29") 
+        (pinfunction "GPIO5__VSPI_CS") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "50") 
+      (name "Net-(U12-GPIO15__RTC_GPIO13__ADC2_3__TOUCH3__SD_CMD__HSPI_CS)") 
+      (class "Default") 
+      (node 
+        (ref "R27") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "23") 
+        (pinfunction "GPIO15__RTC_GPIO13__ADC2_3__TOUCH3__SD_CMD__HSPI_CS") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "51") 
+      (name "Net-(U12-GPIO16__RX2)") 
+      (class "Default") 
+      (node 
+        (ref "R23") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "27") 
+        (pinfunction "GPIO16__RX2") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "52") 
+      (name "Net-(U12-GPIO17__TX2)") 
+      (class "Default") 
+      (node 
+        (ref "R22") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "28") 
+        (pinfunction "GPIO17__TX2") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "53") 
+      (name "Net-(U12-GPIO18__VSPI_CLK)") 
+      (class "Default") 
+      (node 
+        (ref "R20") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "30") 
+        (pinfunction "GPIO18__VSPI_CLK") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "54") 
+      (name "Net-(U12-GPIO19__VSPI_MISO)") 
+      (class "Default") 
+      (node 
+        (ref "R19") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "31") 
+        (pinfunction "GPIO19__VSPI_MISO") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "55") 
+      (name "Net-(U12-GPIO21__I2C_SDA)") 
+      (class "Default") 
+      (node 
+        (ref "R18") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "33") 
+        (pinfunction "GPIO21__I2C_SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "56") 
+      (name "Net-(U12-GPIO22__I2C_SCL)") 
+      (class "Default") 
+      (node 
+        (ref "R15") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "36") 
+        (pinfunction "GPIO22__I2C_SCL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "57") 
+      (name "Net-(U12-GPIO23__VSPI_MOSI)") 
+      (class "Default") 
+      (node 
+        (ref "R14") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "37") 
+        (pinfunction "GPIO23__VSPI_MOSI") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "58") 
+      (name "Net-(U12-SD_DAT3__HSPI_MOSI__TOUCH_4__ADC2_4__RTC_GPIO14__GPIO13)") 
+      (class "Default") 
+      (node 
+        (ref "R13") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U12") 
+        (pin "15") 
+        (pinfunction "SD_DAT3__HSPI_MOSI__TOUCH_4__ADC2_4__RTC_GPIO14__GPIO13") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "59") 
+      (name "unconnected-(U3-GPIO1-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "U3") 
+        (pin "5") 
+        (pinfunction "GPIO1") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "60") 
+      (name "unconnected-(U4-GPIO1-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "U4") 
+        (pin "5") 
+        (pinfunction "GPIO1") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "61") 
+      (name "unconnected-(U5-GPIO1-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "U5") 
+        (pin "5") 
+        (pinfunction "GPIO1") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "62") 
+      (name "unconnected-(U10-MULTIPLEXING_OUTPUT-Pad6)") 
+      (class "Default") 
+      (node 
+        (ref "U10") 
+        (pin "6") 
+        (pinfunction "MULTIPLEXING_OUTPUT") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "63") 
+      (name "unconnected-(U11-XCL-Pad6)") 
+      (class "Default") 
+      (node 
+        (ref "U11") 
+        (pin "6") 
+        (pinfunction "XCL") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "64") 
+      (name "unconnected-(U11-XDA-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "U11") 
+        (pin "5") 
+        (pinfunction "XDA") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "65") 
+      (name "unconnected-(U12-ADC1_3_RTC_GPIO3__GPIO39-Pad4)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "4") 
+        (pinfunction "ADC1_3_RTC_GPIO3__GPIO39") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "66") 
+      (name "unconnected-(U12-ADC1_6_RTC_GPIO4__GPIO34-Pad5)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "5") 
+        (pinfunction "ADC1_6_RTC_GPIO4__GPIO34") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "67") 
+      (name "unconnected-(U12-ADC1_7_RTC_GPIO5__GPIO35-Pad6)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "6") 
+        (pinfunction "ADC1_7_RTC_GPIO5__GPIO35") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "68") 
+      (name "unconnected-(U12-CSC_CMD__GPIO11-Pad18)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "18") 
+        (pinfunction "CSC_CMD__GPIO11") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "69") 
+      (name "unconnected-(U12-GPIO6__SCK_CLK-Pad20)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "20") 
+        (pinfunction "GPIO6__SCK_CLK") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "70") 
+      (name "unconnected-(U12-GPIO7__SDO_SD0-Pad21)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "21") 
+        (pinfunction "GPIO7__SDO_SD0") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "71") 
+      (name "unconnected-(U12-GPIO8__SDI_SD1-Pad22)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "22") 
+        (pinfunction "GPIO8__SDI_SD1") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "72") 
+      (name "unconnected-(U12-RESTART__EN-Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "2") 
+        (pinfunction "RESTART__EN") 
+        (pintype "free"))) 
+    (net 
+      (code "73") 
+      (name "unconnected-(U12-SHD_SD2__GPIO9-Pad16)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "16") 
+        (pinfunction "SHD_SD2__GPIO9") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "74") 
+      (name "unconnected-(U12-SWP_SD3__GPIO10-Pad17)") 
+      (class "Default") 
+      (node 
+        (ref "U12") 
+        (pin "17") 
+        (pinfunction "SWP_SD3__GPIO10") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "75") 
+      (name "unconnected-(U13-C--Pad8)") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "8") 
+        (pinfunction "C-") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "76") 
+      (name "unconnected-(U13-G--Pad9)") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "9") 
+        (pinfunction "G-") 
+        (pintype "no_connect"))) 
+    (net 
+      (code "77") 
+      (name "unconnected-(U13-IN+-Pad1)") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "1") 
+        (pinfunction "IN+") 
+        (pintype "free"))) 
+    (net 
+      (code "78") 
+      (name "unconnected-(U13-IN--Pad2)") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "2") 
+        (pinfunction "IN-") 
+        (pintype "free"))) 
+    (net 
+      (code "79") 
+      (name "unconnected-(U13-R--Pad7)") 
+      (class "Default") 
+      (node 
+        (ref "U13") 
+        (pin "7") 
+        (pinfunction "R-") 
+        (pintype "no_connect")))))

@@ -1,0 +1,5 @@
+A real-time embedded software and telemetry platform for an intelligent spinning-top robot, integrating synchronized sensor acquisition, WebSocket communication, Android visualization, POV display timing, and optimized high-resolution CSV data logging.
+
+This project advances the original hardware prototype into a responsive, real-time embedded robotic system, 
+demonstrating concurrent task management, reliable data synchronization, and scalable foundations for future active stabilization, 
+closed-loop control, and advanced compact robotics research.

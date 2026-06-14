@@ -1,0 +1,237 @@
+({ EESchema Netlist Version 1.1 created } 
+  (/fa778ea5-3354-481f-b71a-1ec1f5b12a04 Resistor_SMD:R_0805_2012Metric R9 3.3K 
+    (1 +3.3V) 
+    (2 /MPU_ESP_INT)) 
+  (/abc25461-d9a7-4fcd-862b-9074532b6668 Capacitor_SMD:C_0805_2012Metric C8 10uF 
+    (1 GND) 
+    (2 +3.3V)) 
+  (/7109b006-1b3c-4166-a406-da1ce04a69b1 projectA_footprints:MPU6050 U11 
+    (1 +3.3V) 
+    (2 GND) 
+    (3 /ESP_MPU_VL_SCL) 
+    (4 /ESP_MPU_VL_SDA) 
+    (5 unconnected- 
+      (U11-XDA-Pad5)) 
+    (6 unconnected- 
+      (U11-XCL-Pad6)) 
+    (7 GND) 
+    (8 /MPU_ESP_INT)) 
+  (/ed4ca573-9b5a-4eef-ba12-2826fb61c31b Capacitor_SMD:C_0805_2012Metric C6 10uF 
+    (1 GND) 
+    (2 +3.3V)) 
+  (/3857a603-ec81-490a-bc9a-bd0a47501ddb projectA_footprints:VL53L0XV2 U4 
+    (1 +3.3V) 
+    (2 GND) 
+    (3 /ESP_MPU_VL_SCL) 
+    (4 /ESP_MPU_VL_SDA) 
+    (5 unconnected- 
+      (U4-GPIO1-Pad5)) 
+    (6 /ESP_VL_B_XSHUT)) 
+  (/833c1bd2-2e1b-465b-9257-6e25770041f0 projectA_footprints:VL53L0XV2 U3 
+    (1 +3.3V) 
+    (2 GND) 
+    (3 /ESP_MPU_VL_SCL) 
+    (4 /ESP_MPU_VL_SDA) 
+    (5 unconnected- 
+      (U3-GPIO1-Pad5)) 
+    (6 /ESP_VL_A_XSHUT)) 
+  (/f76a5afb-0ca7-45da-b8a9-6ebddc0eb56c Capacitor_SMD:C_0805_2012Metric C7 10uF 
+    (1 GND) 
+    (2 +3.3V)) 
+  (/2adf4e53-c953-40f1-a771-57867d24a7ed projectA_footprints:ESP32 U12 
+    (1 +3.3V) 
+    (2 +5V) 
+    (3 /MPU_ESP_INT) 
+    (4 unconnected- 
+      (U12-ADC1_3_RTC_GPIO3__GPIO39-Pad4)) 
+    (5 unconnected- 
+      (U12-ADC1_6_RTC_GPIO4__GPIO34-Pad5)) 
+    (6 unconnected- 
+      (U12-ADC1_7_RTC_GPIO5__GPIO35-Pad6)) 
+    (7 /ESP_LED1) 
+    (8 /ESP_LED2) 
+    (9 /ESP_LED3) 
+    (10 /ESP_LED4) 
+    (11 /ESP_LED5) 
+    (12 /ESP_LED6) 
+    (13 /ESP_LED7) 
+    (14 GND) 
+    (15 /ESP_VL_A_XSHUT) 
+    (16 unconnected- 
+      (U12-SHD_SD2__GPIO9-Pad16)) 
+    (17 unconnected- 
+      (U12-SWP_SD3__GPIO10-Pad17)) 
+    (18 unconnected- 
+      (U12-CSC_CMD__GPIO11-Pad18)) 
+    (19 +5V) 
+    (20 unconnected- 
+      (U12-GPIO6__SCK_CLK-Pad20)) 
+    (21 unconnected- 
+      (U12-GPIO7__SDO_SD0-Pad21)) 
+    (22 unconnected- 
+      (U12-GPIO8__SDI_SD1-Pad22)) 
+    (23 /ESP_VL_C_XSHUT) 
+    (24 /ESP_MD_A_AIA) 
+    (25 /ESP_MD_B_AIA) 
+    (26 /ESP_MD_B_AIB) 
+    (27 /LUNA_ESP_RXD) 
+    (28 /ESP_LUNA_LED8_TXD) 
+    (29 /ESP_MD_B_BIA) 
+    (30 /ESP_MD_B_BIB) 
+    (31 /ESP_MD_A_BIA) 
+    (32 GND) 
+    (33 /ESP_MPU_VL_SDA) 
+    (34 /ESP_MD_A_BIB) 
+    (35 /ESP_MD_A_AIB) 
+    (36 /ESP_MPU_VL_SCL) 
+    (37 /ESP_VL_B_XSHUT) 
+    (38 GND)) 
+  (/494e2ad4-211c-475f-8e8b-05b95789bf9f Capacitor_SMD:C_0805_2012Metric C4 10uF 
+    (1 GND) 
+    (2 +3.3V)) 
+  (/6d35f623-18e0-4015-a073-690a7511d639 Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP5 TestPoint_Battery_POS 
+    (1 /CHRG_BAT_POS)) 
+  (/9b0adaf2-262f-4fd4-9ccf-83ea2c0b101b Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP6 TestPoint_Battery_NEG 
+    (1 GND)) 
+  (/724d0e78-2846-4bf2-bd5b-a6fa33d9a388 Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP2 TestPoint_5V 
+    (1 +5V)) 
+  (/70a337a1-a84a-4b85-a6f7-92b01dafc646 Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP1 TestPoint_3.3V 
+    (1 +3.3V)) 
+  (/cd3d1c07-1962-4a55-b4bf-693ae12ad009 Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP3 TestPoint_VCoil 
+    (1 +9V)) 
+  (/f3bf7ba1-f3e8-41b8-8d86-8cb95719d69e Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical TP4 TestPoint_GND 
+    (1 GND)) 
+  (/66c97951-fb97-43a9-9228-8b041bd1a35e projectA_footprints:TF_LUNA U10 
+    (1 +5V) 
+    (2 /ESP_LUNA_LED8_TXD) 
+    (3 /LUNA_ESP_RXD) 
+    (4 GND) 
+    (5 +3.3V) 
+    (6 unconnected- 
+      (U10-MULTIPLEXING_OUTPUT-Pad6))) 
+  (/2cedfa02-0be2-490d-8079-15b5062097a0 Resistor_SMD:R_0805_2012Metric R11 3.3K 
+    (1 +3.3V) 
+    (2 /ESP_MPU_VL_SCL)) 
+  (/d0b7ddd2-03ee-4eda-8c49-3f1300a18b13 Capacitor_SMD:C_0805_2012Metric C9 10uF 
+    (1 GND) 
+    (2 +5V)) 
+  (/cc20a751-404b-4e64-a172-a36ae236d226 projectA_footprints:VL53L0XV2 U5 
+    (1 +3.3V) 
+    (2 GND) 
+    (3 /ESP_MPU_VL_SCL) 
+    (4 /ESP_MPU_VL_SDA) 
+    (5 unconnected- 
+      (U5-GPIO1-Pad5)) 
+    (6 /ESP_VL_C_XSHUT)) 
+  (/deaa4456-a2d2-4b07-b022-17ad483663ec Resistor_SMD:R_0805_2012Metric R10 3.3K 
+    (1 +3.3V) 
+    (2 /ESP_MPU_VL_SDA)) 
+  (/05be8ab8-6261-4efe-a88a-626b4bd16419 projectA_footprints:BUCK_BOOST U6 
+    (1 /CHRG_BB_IN_P) 
+    (2 /CHRG_BB_IN_P) 
+    (3 GND) 
+    (4 +5V) 
+    (5 GND)) 
+  (/47b81d17-1c2a-48e5-aa3d-6e5bbf84c5b3 projectA_footprints:BUCK_BOOST U7 
+    (1 /CHRG_BB_IN_P) 
+    (2 /BB_EN) 
+    (3 GND) 
+    (4 +9V) 
+    (5 GND)) 
+  (/3b80ccd7-4587-4827-9bff-b0547dabefa6 TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm JP1 Jumper_2_Bridged 
+    (1 /CHRG_BB_IN_P) 
+    (2 /BB_EN)) 
+  (/18cba69a-40ad-4871-a26f-0f8bbb221c38 projectA_footprints:BATTERY_HOLDER U8 
+    (N GND) 
+    (P /CHRG_BAT_POS)) 
+  (/d8ac0256-7862-4844-ae8b-a6c9a0b21892 Capacitor_SMD:CP_Elec_3x5.3 C1 47uF 
+    (1 +5V) 
+    (2 GND)) 
+  (/1f7f574d-8b15-4960-9a30-4d48417c2c2a Capacitor_SMD:CP_Elec_3x5.3 C2 47uF 
+    (1 +9V) 
+    (2 GND)) 
+  (/c3db4f56-5e2b-481e-935f-cd36663a6786 Capacitor_SMD:CP_Elec_3x5.3 C5 47uF 
+    (1 /CHRG_BB_IN_P) 
+    (2 GND)) 
+  (/dc0bc492-48d5-4d64-a4bb-baac73fc311e projectA_footprints:CHARGE_CONTROLLER U9 
+    (1 /CHRG_BB_IN_P) 
+    (2 /CHRG_BAT_POS) 
+    (3 GND) 
+    (4 GND) 
+    (5 unconnected- 
+      (U9-IN_P-Pad5)) 
+    (6 GND)) 
+  (/f344a19c-bb3f-406c-b9c5-ed16c880f752 Capacitor_SMD:C_0805_2012Metric C12 10uF 
+    (1 GND) 
+    (2 +5V)) 
+  (/9c80ded0-2060-473d-91a5-f885f884f6a3 Capacitor_SMD:CP_Elec_3x5.3 C3 47uF 
+    (1 +3.3V) 
+    (2 GND)) 
+  (/2e5b3a3d-1cef-4d67-a893-1f9d736eb538 Resistor_SMD:R_0805_2012Metric R6 330 
+    (1 /R6_LED6) 
+    (2 +3.3V)) 
+  (/8a68b01f-6b6e-446a-baef-36eacf911ceb Resistor_SMD:R_0805_2012Metric R7 330 
+    (1 /R7_LED7) 
+    (2 +3.3V)) 
+  (/feceb2bf-5d72-4bee-b2e0-bb13bd36ed87 Resistor_SMD:R_0805_2012Metric R5 330 
+    (1 /R5_LED5) 
+    (2 +3.3V)) 
+  (/0ed4314e-abae-4d69-ab73-723e43140fa3 Diode_SMD:D_0805_2012Metric D5 CD4148W 
+    (1 /ESP_LED5) 
+    (2 /R5_LED5)) 
+  (/cab3ae19-cfdc-4e7e-a75e-37e3512fc886 Diode_SMD:D_0805_2012Metric D6 CD4148W 
+    (1 /ESP_LED6) 
+    (2 /R6_LED6)) 
+  (/a6533550-6c8d-4782-a63c-cc0b5d7b196f Diode_SMD:D_0805_2012Metric D7 CD4148W 
+    (1 /ESP_LED7) 
+    (2 /R7_LED7)) 
+  (/bc67d109-f9eb-4b3d-8e66-3a6a145187d8 Capacitor_SMD:C_0805_2012Metric C10 10uF 
+    (1 +9V) 
+    (2 GND)) 
+  (/ad1ec2ef-7b9d-4f98-a01a-31f18d0fcb99 projectA_footprints:MOTOR_DRIVER U1 
+    (1 /ESP_MD_A_AIB) 
+    (2 /ESP_MD_A_AIA) 
+    (3 +9V) 
+    (4 GND) 
+    (5 /ESP_MD_A_BIB) 
+    (6 /ESP_MD_A_BIA)) 
+  (/3874aee2-e34a-459e-a02d-c97ebb9737cb Capacitor_SMD:C_0805_2012Metric C11 10uF 
+    (1 +9V) 
+    (2 GND)) 
+  (/ad23a1a0-aaed-4f6d-bbb4-39b9f0725240 projectA_footprints:MOTOR_DRIVER U2 
+    (1 /ESP_MD_B_AIB) 
+    (2 /ESP_MD_B_AIA) 
+    (3 +9V) 
+    (4 GND) 
+    (5 /ESP_MD_B_BIB) 
+    (6 /ESP_MD_B_BIA)) 
+  (/509b91f0-bb14-43ac-b7d2-38121fdf3a9b Resistor_SMD:R_0805_2012Metric R8 330 
+    (1 /R8_LED8) 
+    (2 +3.3V)) 
+  (/2a6ac9f6-b75e-4bcf-83f9-9bdfec30d741 Diode_SMD:D_0805_2012Metric D8 CD4148W 
+    (1 /ESP_LUNA_LED8_TXD) 
+    (2 /R8_LED8)) 
+  (/df1e88ec-4518-403b-a375-0c37337a75cd Diode_SMD:D_0805_2012Metric D2 CD4148W 
+    (1 /ESP_LED2) 
+    (2 /R2_LED2)) 
+  (/79db3cda-7eda-4410-b9fe-3d6fc3e1996f Diode_SMD:D_0805_2012Metric D4 CD4148W 
+    (1 /ESP_LED4) 
+    (2 /R4_LED4)) 
+  (/7a5d72e9-7e20-48cc-9a4e-8e0d62ee3c1c Resistor_SMD:R_0805_2012Metric R4 330 
+    (1 /R4_LED4) 
+    (2 +3.3V)) 
+  (/2bae58b8-114d-444c-b3ea-18f0fba5cd76 Diode_SMD:D_0805_2012Metric D3 CD4148W 
+    (1 /ESP_LED3) 
+    (2 /R3_LED3)) 
+  (/e86707fc-7afb-4480-9b20-421a06338407 Resistor_SMD:R_0805_2012Metric R3 330 
+    (1 /R3_LED3) 
+    (2 +3.3V)) 
+  (/c48e18d7-f24c-4a18-bd09-c2e64fb8c86a Resistor_SMD:R_0805_2012Metric R1 330 
+    (1 /R1_LED1) 
+    (2 +3.3V)) 
+  (/73b60544-655a-42bc-8e87-ce3c2752d4cb Diode_SMD:D_0805_2012Metric D1 CD4148W 
+    (1 /ESP_LED1) 
+    (2 /R1_LED1)) 
+  (/45e07c1f-026c-4c5f-8dff-d26f86e0c4d5 Resistor_SMD:R_0805_2012Metric R2 330 
+    (1 /R2_LED2) 
+    (2 +3.3V)))

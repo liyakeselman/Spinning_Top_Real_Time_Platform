@@ -1,0 +1,13 @@
+This project presents the second development phase of the smart spinning-top robotic platform, advancing the initial hardware prototype into a real-time embedded system with synchronized sensing, telemetry, data logging, and Android-based visualization.
+
+The platform is powered by an ESP32 microcontroller and integrates an MPU6050 IMU, VL53L0X ToF sensors,  a TF-Luna LiDAR, electromagnetic hammer actuation, and a 3S power architecture. 
+
+Project B focuses on the software and system-integration layer: 
+FreeRTOS-based task separation, high-rate sensor acquisition, POV display timing, WebSocket communication, and coherent CSV logging.
+
+A central challenge of this phase was maintaining real-time behavior while multiple processes operated concurrently. To resolve this, the firmware was redesigned around synchronized telemetry snapshots, protected shared data access, buffered file writing, and controlled task priorities.  This allowed sensor data, Android telemetry, and CSV records to remain consistent while reducing blocking, 
+timing jitter, and flash-writing interference.
+
+On the communication side, the system was extended with a full-duplex WebSocket interface to a dedicated Android application. High-frequency telemetry was migrated from JSON to a compact binary protocol, while the Android graphing pipeline was optimized using throttled updates and a fixed-size sliding window to provide smooth real-time visualization without overloading the mobile UI.
+
+The result is a significantly more mature robotic platform: a real-time software, communication, and synchronization foundation for the spinning-top platform, and not only a spinning hardware prototype. It bridges the gap between a functional hardware prototype and a scalable robotic system, demonstrating how embedded concurrency, telemetry optimization, mobile visualization, and careful timing protection can turn a compact spinning object into a sophisticated experimental platform for active motion, sensing, and future stabilization research.
